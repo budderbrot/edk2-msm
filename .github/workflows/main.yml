@@ -33,6 +33,8 @@ jobs:
           # sdm845
           - polaris
           - perseus
+          # sm7125
+          - a52q
           # sm7325
           - mona
           - lisa
